@@ -1,12 +1,15 @@
 # Prerequisites
 
-1. **Python** should be installed on your system.
-2. Clone this repository using the following command:
+- [ ] Install Python
+- [ ] Clone the repository
+- [ ] Install pandas
 
 
-# Clone this repo
-3. Install the required dependencies by running:
--[] pip install pandas
+
+# Install the required dependencies by running:
+
+
+ pip install pandas
 
 
 

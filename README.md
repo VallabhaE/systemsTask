@@ -6,6 +6,7 @@
 
 # Clone this repo
 3. Install the required dependencies by running:
+-[] pip install pandas
 
 
 
